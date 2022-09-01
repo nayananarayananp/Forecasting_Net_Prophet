@@ -36,7 +36,7 @@ import datetime as dt
 %matplotlib inline
 
 ## Usage
-Simply clone the repository and execute the crypto investments.ipynb to run this program:
+Simply clone the repository and execute the forecasting_net_prophet.ipynb to run this program:
 
   forecasting_net_prophet.ipynb
   
